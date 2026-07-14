@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=2&section=header"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Jimmy+Ahmed;Senior+AI%2FML+Engineer;LLM+Applications+%26+RAG+Systems;MLOps+%26+Backend+Engineering;Building+production-grade+AI+systems." alt="Typing SVG" />
