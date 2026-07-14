@@ -154,19 +154,10 @@ Engineering principles applied to ML systems.
 
 <br/>
 
-## `>_` Contribution Graph
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jimmyahmeddev&theme=github-compact&hide_border=true&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=C9D1D9&area=true&area_color=1a1a1a" width="100%"/>
-</div>
 
 <br/>
 
-## `>_` Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/jimmyahmeddev/jimmyahmeddev/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
 
 <br/>
 
@@ -192,6 +183,6 @@ $ contact --engineer "jimmy_ahmed"
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&section=footer"/>
 
-<sub>Built with engineering discipline, not decoration.</sub>
+<sub>Built with engineering discipline</sub>
 
 </div>
