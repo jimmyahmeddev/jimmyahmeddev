@@ -141,16 +141,7 @@ Engineering principles applied to ML systems.
 
 <br/>
 
-## `>_` GitHub Metrics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jimmyahmeddev&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9&ring_color=FFFFFF" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmyahmeddev&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&langs_count=8" width="49%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jimmyahmeddev&theme=dark&hide_border=true&background=0D1117&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=8B949E" width="100%" />
-
-</div>
 
 <br/>
 
