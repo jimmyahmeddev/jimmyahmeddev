@@ -1,154 +1,197 @@
-# Jimmy Ahmed
+<div align="center">
 
-## Senior AI/ML Engineer | LLM Applications | RAG Systems | MLOps | Backend Engineering
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&section=header"/>
 
-Senior AI/ML Engineer with 7+ years of experience designing, building, and deploying production-grade software systems, machine learning platforms, and AI-powered applications.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Jimmy+Ahmed;Senior+AI%2FML+Engineer;LLM+Applications+%26+RAG+Systems;MLOps+%26+Backend+Engineering;Building+production-grade+AI+systems." alt="Typing SVG" />
+</a>
 
-My expertise focuses on bridging the gap between machine learning research and reliable production systems by developing scalable LLM applications, retrieval-augmented generation pipelines, AI inference services, document intelligence platforms, and cloud-native backend architectures.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&section=header"/>
 
-I specialize in Python-based AI engineering with hands-on experience across FastAPI, Django, Kubernetes, AWS, MLflow, vector search systems, and modern MLOps workflows.
+</div>
 
-# Professional Summary
+<br/>
 
-- 7+ years of experience building scalable backend systems, AI platforms, and machine learning applications.
-- Strong expertise in Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), embeddings, and vector search architectures.
-- Experienced in developing production AI systems including chatbots, document intelligence solutions, OCR pipelines, and predictive analytics platforms.
-- Skilled in designing high-performance APIs, distributed systems, and cloud-native deployments.
-- Experienced in ML lifecycle management including training, deployment, monitoring, evaluation, and model optimization.
-- Strong background in Python backend development, database architecture, CI/CD automation, and infrastructure engineering.
+```python
+class JimmyAhmed:
+    def __init__(self):
+        self.role         = "Senior AI/ML Engineer"
+        self.experience    = "7+ years"
+        self.focus         = ["LLM Applications", "RAG Systems", "MLOps", "Backend Engineering"]
+        self.stack         = ["Python", "FastAPI", "Django", "Kubernetes", "AWS", "MLflow"]
+        self.currently     = "Building scalable, production-ready AI infrastructure"
 
-# AI & Machine Learning Expertise
+    def philosophy(self):
+        return "Bridging ML research and reliable production systems."
+```
 
-## Generative AI and LLM Systems
+<br/>
 
-Experienced designing and deploying enterprise AI applications including:
+## `>_` About
 
-- Retrieval-Augmented Generation (RAG) pipelines
-- LLM-powered conversational systems
-- AI assistants and knowledge retrieval platforms
-- Embedding-based search systems
-- Prompt engineering and optimization
-- LLM evaluation and quality monitoring
-- Hallucination reduction strategies
-- Model serving and inference optimization
+```yaml
+Engineer:     Jimmy Ahmed
+Title:        Senior AI/ML Engineer
+Experience:   7+ Years
+Specialties:  Large Language Models · RAG Pipelines · Vector Search · MLOps
+Mission:      Designing, building, and deploying production-grade AI systems
+              that are scalable, reliable, and business-focused.
+```
 
-Technologies:
+I design and ship enterprise AI systems — from retrieval-augmented generation pipelines and LLM-powered assistants to OCR document intelligence and predictive maintenance platforms. My work sits at the intersection of applied machine learning and dependable backend engineering: high-throughput APIs, cloud-native deployment, and infrastructure built to hold up in production.
 
-- Mistral-7B -- Hugging Face Transformers- FAISS- LoRA Fine-tuning- Vector Search- FastAPI- Redis- MLflow
----
-# Machine Learning Engineering
+<br/>
 
-Experienced building complete machine learning workflows:
+## `>_` Tech Stack
 
-Data Processing|Feature Engineering|Model Training|Validation & Evaluation|Deployment |Monitoring & Retraining
+<div align="center">
 
-Machine Learning Areas:
+### Artificial Intelligence / Machine Learning
 
-- Natural Language Processing - Document Understanding-  OCR and Information Extraction- Classification Models - Predictive Maintenance- Anomaly Detection- Model Drift Detection- Automated Retraining Pipelines
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow&theme=dark" /><br/>
+`PyTorch` `Transformers` `Hugging Face` `LLMs` `RAG` `Vector Search` `FAISS` `MLflow` `XGBoost` `OCR`
 
-Machine Learning Technologies:
+<br/><br/>
 
-- XGBoost- PySpark- MLflow- Hugging Face- Transformers- Donut OCR- Tesseract
----
-# Backend Engineering
+### Backend Engineering
 
-Designing scalable backend platforms and AI service architectures.
+<img src="https://skillicons.dev/icons?i=py,django,fastapi,flask,postgres,redis,kafka&theme=dark" /><br/>
+`Python` `Django` `FastAPI` `Flask` `REST APIs` `PostgreSQL` `Redis` `Kafka` `Celery`
 
-## Programming Languages
+<br/><br/>
 
-- Python- TypeScript- SQL- Bash
+### Cloud & Infrastructure
 
-## Frameworks and Libraries
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,linux&theme=dark" /><br/>
+`AWS` `Docker` `Kubernetes` `Terraform` `GitHub Actions` `Linux`
 
-- Django- Django REST Framework- FastAPI- Flask- React- Pydantic
-Experienced building:
+<br/><br/>
 
-- High-performance REST APIs- AI inference gateways- Multi-tenant SaaS platforms- Microservice architectures- Event-driven systems- Internal developer platforms
-# Cloud & MLOps Engineering
+### Observability & Reliability
 
-Experienced deploying and operating production AI systems using modern cloud infrastructure.
+`Prometheus` `Grafana` `OpenTelemetry` `Sentry` `MLflow Monitoring` `Structured Logging`
 
-## Cloud Platforms
+</div>
 
-- AWS- Cloud-native architectures- Serverless workloads- Scalable AI deployments
-## DevOps & Infrastructure
+<br/>
 
-- Docker- Kubernetes- Terraform- GitHub Actions- CI/CD Automation- Container orchestration- Infrastructure as Code
+## `>_` Featured Projects
 
-Focused on:
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Reliable deployments- Automated testing pipelines- Production monitoring- Scalable inference systems- Infrastructure automation
+### `01` Customer Support LLM Chatbot
 
-# Data Engineering & Storage
+Production-grade conversational AI platform.
 
-Experience designing data systems for AI and backend applications.
+**Stack:** `Mistral-7B` `LoRA` `FAISS` `FastAPI` `Redis` `Docker`
 
-Databases and Storage:
+- Domain-specific LLM chatbot with retrieval grounding
+- Conversation memory & context management
+- Hallucination reduction via retrieval filtering
+- Scalable inference APIs for production workloads
+- Monitoring & fallback mechanisms for reliability
 
-- PostgreSQL- Redis- SQLite- Amazon S3- FAISS Vector Store
+</td>
+<td width="50%" valign="top">
 
-Messaging and Processing:
+### `02` Invoice OCR & Extraction Platform
 
-- Kafka- Celery- PySpark
-# Observability & Production Reliability
+AI-powered document processing system.
 
-Building reliable AI systems requires strong monitoring and operational visibility.
+**Stack:** `Donut` `Tesseract` `Transformers` `PostgreSQL` `Streamlit`
 
-Experience with:
-- Prometheus- Grafana- OpenTelemetry- Sentry- MLflow Monitoring- Structured Logging
-Implemented:
+- Automated invoice & receipt extraction pipelines
+- Processed 100K+ financial documents
+- Validation & reconciliation workflows
+- Drift-triggered monitoring & retraining
 
-- API performance monitoring- Model performance tracking- Error analysis- Production incident response- ML drift detection
-# Featured Projects
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## Customer Support LLM Chatbot
-Production-grade conversational AI platform built using:
-- Mistral-7B- LoRA Fine-tuning- FAISS Retrieval- FastAPI- Redis- Docker
-Key Contributions:
+### `03` Predictive Maintenance AI Platform
 
-- Developed a domain-specific LLM chatbot with retrieval grounding.- Implemented conversation memory and context management.- Reduced hallucinations using retrieval filtering techniques.- Built scalable inference APIs optimized for production workloads.- Added monitoring and fallback mechanisms for reliability.
+Real-time ML platform for industrial equipment.
 
-## Intelligent Invoice OCR & Information Extraction Platform
-AI-powered document processing system combining:
-- Donut- Tesseract OCR- Hugging Face Transformers- PostgreSQL- Streamlit
-Key Contributions:
-- Built automated invoice and receipt extraction pipelines.- Processed over 100K financial documents.- Developed validation and reconciliation workflows.
-- Reduced manual document processing effort through automation.- Implemented monitoring and retraining triggers based on data drift.
-## Predictive Maintenance AI Platform
+**Stack:** `Kafka` `PySpark` `XGBoost` `MLflow` `AWS Lambda` `Grafana`
 
-Real-time machine learning platform using:
+- Streaming pipelines processing millions of sensor events
+- Anomaly detection models for industrial equipment
+- Model monitoring & retraining workflows
+- Real-time operational dashboards
 
-- Kafka- PySpark- XGBoost- MLflow- AWS Lambda- Grafana
+</td>
+<td width="50%" valign="top">
 
-Key Contributions:
+### `04` What I'm Focused On
 
-- Designed streaming pipelines processing millions of sensor events.- Developed anomaly detection models for industrial equipment.- Built model monitoring and retraining workflows.- Improved operational visibility through real-time dashboards.
+Engineering principles applied to ML systems.
 
-# Technical Stack
+- Scalable, observable, production-ready systems
+- Full ML lifecycle: train → deploy → monitor → retrain
+- Reducing the gap between research and reliable delivery
+- Business-focused technical decision making
 
-## Artificial Intelligence
+</td>
+</tr>
+</table>
 
-Python  -PyTorch  -Transformers  -Hugging Face  -LLMs  -RAG  -Vector Search  -FAISS  -MLflow  -XGBoost  -OCR  
-## Backend Development
+<br/>
 
-Python  Django  FastAPI  Flask  REST APIs  PostgreSQL  Redis  Kafka  Celery  
+## `>_` GitHub Metrics
 
-## Cloud & Infrastructure
+<div align="center">
 
-AWS  Docker  Kubernetes  Terraform  GitHub Actions  Linux  
+<img src="https://github-readme-stats.vercel.app/api?username=jimmyahmeddev&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9&ring_color=FFFFFF" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmyahmeddev&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&langs_count=8" width="49%" />
 
-# Professional Focus
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jimmyahmeddev&theme=dark&hide_border=true&background=0D1117&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=8B949E" width="100%" />
 
-I enjoy building AI systems that are:
+</div>
 
-- Scalable- Reliable- Observable- Production-ready- Business-focused
+<br/>
 
-My goal is to create intelligent software solutions that combine strong engineering principles with practical machine learning capabilities.
+## `>_` Contribution Graph
 
-# Contact
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jimmyahmeddev&theme=github-compact&hide_border=true&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=C9D1D9&area=true&area_color=1a1a1a" width="100%"/>
+</div>
 
-Email: jimmy_ahmed5@outlook.com
+<br/>
 
-LinkedIn: linkedin.com/in/jimmy-ahmed-0490403a8/
+## `>_` Contribution Snake
 
-GitHub: github.com/jimmyahmeddev
+<div align="center">
+<img src="https://raw.githubusercontent.com/jimmyahmeddev/jimmyahmeddev/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
+
+<br/>
+
+## `>_` Connect
+
+<div align="center">
+
+```bash
+$ contact --engineer "jimmy_ahmed"
+```
+
+<a href="mailto:jimmy_ahmed5@outlook.com">
+  <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=maildotru&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/jimmy-ahmed-0490403a8/">
+  <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/jimmyahmeddev">
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&section=footer"/>
+
+<sub>Built with engineering discipline, not decoration.</sub>
+
+</div>
