@@ -1,6 +1,3 @@
-I updated the README structure to match your existing professional dark design, keeping the same format, sections, and style. I removed the AI-only positioning and aligned it with Ryan Fagan’s resume: Senior .NET Software Engineer, Microsoft stack, Azure, DevOps, APIs, SQL, observability, and practical AI/RAG experience. 
-
-````markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=2&section=header"/>
@@ -233,6 +230,3 @@ $ contact --engineer "ryan_fagan"
 <sub>Built with engineering discipline</sub>
 
 </div>
-```
-
-This keeps the same mature engineering aesthetic: no gimmicks, no unnecessary animations, no snake contribution graphics, and positions him as a senior enterprise engineer rather than a generic AI profile.
