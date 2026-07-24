@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=2&section=header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Ryan+Fagan;Senior+.NET+Software+Engineer;Cloud+Native+Microsoft+Stack;Azure+%7C+APIs+%7C+DevOps+%7C+AI+Integration;Building+reliable+enterprise+systems." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Jimmy+Ahmed;Senior+AI%2FML+Engineer;LLM+Applications+%7C+RAG+Systems;MLOps+%7C+Backend+Engineering;Building+production-grade+AI+systems." alt="Typing SVG" />
 </a>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&section=header"/>
@@ -12,56 +12,50 @@
 
 <br/>
 
-```csharp
-public class RyanFagan
-{
-    public string Role = "Senior .NET Software Engineer";
-    public string Experience = "12+ Years";
+```python
+class JimmyAhmed:
+    def __init__(self):
+        self.role = "Senior AI/ML Engineer"
+        self.experience = "7+ Years"
 
-    public string[] Focus =
-    {
-        "ASP.NET Core",
-        "Azure Cloud",
-        "Enterprise APIs",
-        "SQL Server",
-        "DevOps",
-        "AI Integration"
-    };
+        self.focus = [
+            "Large Language Models",
+            "Retrieval-Augmented Generation",
+            "MLOps",
+            "Backend Engineering",
+            "Generative AI"
+        ]
 
-    public string[] Stack =
-    {
-        "C#",
-        ".NET 9",
-        "React",
-        "Azure",
-        "Docker",
-        "Kubernetes"
-    };
+        self.stack = [
+            "Python",
+            "FastAPI",
+            "Django",
+            "AWS",
+            "Docker",
+            "Kubernetes"
+        ]
 
-    public string Philosophy()
-    {
-        return "Building scalable software systems with reliability, performance, and maintainability.";
-    }
-}
-````
+    def philosophy(self):
+        return "Building reliable, scalable AI systems that create measurable business impact."
+```
 
 <br/>
 
 ## `>_` About
 
 ```yaml
-Engineer:      Ryan Fagan
-Title:         Senior .NET Software Engineer
-Experience:    12+ Years
-Specialties:   Backend Architecture · Cloud Systems · API Design · DevOps
-Core Stack:    C# · ASP.NET Core · SQL Server · Azure · React
-Mission:       Designing enterprise-grade platforms that are secure,
-               scalable, observable, and production ready.
+Engineer:      Jimmy Ahmed
+Title:         Senior AI/ML Engineer
+Experience:    7+ Years
+Specialties:   LLM Applications · RAG Pipelines · AI Agents · MLOps
+Core Stack:    Python · FastAPI · AWS · Kubernetes · Vector Databases
+Mission:       Designing production-ready AI platforms that are scalable,
+               observable, secure, and built for real-world deployment.
 ```
 
-I specialize in building and modernizing enterprise software systems using the Microsoft technology ecosystem. My experience includes architecting API-first ASP.NET Core applications, optimizing SQL Server workloads, building Azure cloud deployments, and creating reliable CI/CD pipelines.
+I specialize in designing, developing, and deploying production-grade AI systems powered by Large Language Models, Retrieval-Augmented Generation (RAG), and cloud-native machine learning infrastructure. My experience spans intelligent document processing, AI assistants, multi-agent systems, recommendation engines, and enterprise automation solutions.
 
-I focus on engineering solutions that balance performance, operational stability, and long-term maintainability. I have also worked with Azure OpenAI, retrieval-augmented generation patterns, embeddings, and AI-assisted developer workflows to improve productivity and internal engineering processes. 
+I enjoy solving complex engineering challenges by combining modern machine learning with robust backend architecture. My focus is on building scalable APIs, efficient inference pipelines, reliable MLOps workflows, and AI platforms that deliver measurable business value.
 
 <br/>
 
@@ -69,47 +63,77 @@ I focus on engineering solutions that balance performance, operational stability
 
 <div align="center">
 
+### Artificial Intelligence & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" /><br/>
+
+`Python`
+`PyTorch`
+`TensorFlow`
+`Transformers`
+`Hugging Face`
+`LangChain`
+`LlamaIndex`
+`OpenAI`
+`Anthropic`
+`RAG`
+`LLMs`
+
+<br/><br/>
+
 ### Backend Engineering
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,postgres,redis,kafka&theme=dark" /><br/>
 
-`C#` `ASP.NET Core` `.NET 9` `.NET Framework` `Entity Framework Core`
-`REST APIs` `OpenAPI` `Swagger` `Microservices` `API Architecture`
-
-<br/><br/>
-
-### Frontend Development
-
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css&theme=dark" /><br/>
-
-`React` `JavaScript` `TypeScript` `HTML5` `CSS3`
+`FastAPI`
+`Django`
+`Flask`
+`REST APIs`
+`PostgreSQL`
+`Redis`
+`Kafka`
+`Celery`
 
 <br/><br/>
 
-### Database & Data Engineering
+### Vector Databases & Data
 
-<img src="https://skillicons.dev/icons?i=sqlserver,redis&theme=dark" /><br/>
-
-`SQL Server` `T-SQL` `Stored Procedures` `Indexes`
-`Query Optimization` `ETL Workflows` `Redis` `Azure Blob Storage`
-
-<br/><br/>
-
-### Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform,githubactions&theme=dark" /><br/>
-
-`Azure` `Azure App Service` `Azure Functions`
-`Docker` `Kubernetes` `Terraform` `Bicep`
-`GitHub Actions` `Azure DevOps`
+`FAISS`
+`Pinecone`
+`Qdrant`
+`ChromaDB`
+`pgvector`
+`OCR`
+`MLflow`
+`Airflow`
+`Prefect`
 
 <br/><br/>
 
-### AI Integration & Observability
+### Cloud & Infrastructure
 
-`Azure OpenAI` `RAG` `Embeddings` `Semantic Search`
-`Azure Cognitive Search` `Prompt Engineering`
-`Application Insights` `OpenTelemetry` `Serilog`
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,linux&theme=dark" /><br/>
+
+`AWS`
+`Azure`
+`GCP`
+`Docker`
+`Kubernetes`
+`Terraform`
+`GitHub Actions`
+`Linux`
+
+<br/><br/>
+
+### Observability & MLOps
+
+`MLflow`
+`Prometheus`
+`Grafana`
+`OpenTelemetry`
+`Weights & Biases`
+`Sentry`
+`CI/CD`
 
 </div>
 
@@ -123,31 +147,33 @@ I focus on engineering solutions that balance performance, operational stability
 
 <td width="50%" valign="top">
 
-### `01` Enterprise API Modernization Platform
+### `01` Enterprise RAG Platform
 
-Modernized legacy applications into scalable cloud-native services.
+Production knowledge assistant built on enterprise documents.
 
-**Stack:** `.NET 9` `ASP.NET Core` `Docker` `Azure App Service`
+**Stack:** `LangChain` `OpenAI` `FAISS` `FastAPI` `Redis`
 
-* Migrated legacy ASP.NET systems into API-first architecture
-* Designed REST APIs with OpenAPI contracts
-* Enabled controlled deployments and autoscaling
-* Improved application reliability and maintainability
+- Document ingestion pipelines
+- Semantic search using embeddings
+- Context-aware answer generation
+- Hallucination reduction
+- Production monitoring and evaluation
 
 </td>
 
 <td width="50%" valign="top">
 
-### `02` High Performance SQL Data Platform
+### `02` Intelligent Document Processing
 
-Optimized enterprise data processing workflows.
+Automated OCR and AI extraction platform.
 
-**Stack:** `SQL Server` `T-SQL` `EF Core` `Azure`
+**Stack:** `Transformers` `OCR` `FastAPI` `PostgreSQL`
 
-* Tuned stored procedures and database indexes
-* Reduced API latency by approximately 40%
-* Improved batch processing performance
-* Supported high-volume transactional workloads
+- Invoice and contract extraction
+- Entity recognition
+- Validation workflows
+- Human-in-the-loop review
+- Enterprise API integration
 
 </td>
 
@@ -157,31 +183,33 @@ Optimized enterprise data processing workflows.
 
 <td width="50%" valign="top">
 
-### `03` AI Assisted Engineering Workflow
+### `03` Multi-Agent AI Platform
 
-Integrated AI capabilities into developer productivity workflows.
+Collaborative AI agents for business automation.
 
-**Stack:** `Azure OpenAI` `RAG` `Embeddings`
+**Stack:** `LangGraph` `CrewAI` `FastAPI` `Redis`
 
-* Built AI-assisted code analysis workflows
-* Created prompt-driven developer tooling
-* Generated automated test scenarios
-* Reduced debugging and triage time
+- Multi-agent orchestration
+- Tool calling
+- Planning workflows
+- Memory management
+- Production deployment
 
 </td>
 
 <td width="50%" valign="top">
 
-### `04` Cloud Reliability & Operations
+### `04` Production MLOps Platform
 
-Production engineering focused on stability.
+End-to-end machine learning lifecycle.
 
-**Stack:** `Azure` `OpenTelemetry` `Application Insights`
+**Stack:** `MLflow` `Docker` `Kubernetes` `AWS`
 
-* Built monitoring and alerting solutions
-* Created production runbooks
-* Supported incident response processes
-* Improved deployment reliability
+- Automated model deployment
+- Model versioning
+- Monitoring & drift detection
+- CI/CD pipelines
+- Scalable inference APIs
 
 </td>
 
@@ -194,11 +222,11 @@ Production engineering focused on stability.
 ## `>_` Engineering Principles
 
 ```yaml
-Architecture:     API-first, scalable, maintainable systems
-Cloud:            Reliable Azure-based deployments
-Delivery:         Automated CI/CD and infrastructure-as-code
-Performance:      Optimized databases and application workflows
-Operations:       Observable systems with production ownership
+Architecture:     Scalable AI systems with modular design
+Deployment:       Cloud-native and production-ready
+Reliability:      Monitoring, observability, and automation
+Performance:      Low-latency inference and optimized pipelines
+Engineering:      Practical AI delivering measurable business outcomes
 ```
 
 <br/>
@@ -208,18 +236,18 @@ Operations:       Observable systems with production ownership
 <div align="center">
 
 ```bash
-$ contact --engineer "ryan_fagan"
+$ contact --engineer "jimmy_ahmed"
 ```
 
-<a href="mailto:rfagan326@gmail.com">
+<a href="mailto:jimmy_ahmed5@outlook.com">
   <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=maildotru&logoColor=white" />
 </a>
 
-<a href="#">
+<a href="https://linkedin.com/in/jimmy-ahmed-0490403a8/">
   <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="#">
+<a href="https://github.com/jimmyahmeddev">
   <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
